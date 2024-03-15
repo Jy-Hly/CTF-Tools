@@ -1,2 +1,2 @@
 # CTF-Tools
-TOols that I build for doing CTF. Not optimised, not efficient, but still a good way to learn !
+Tools that I build for doing CTF. Not optimised, not efficient, but still a good way to learn !
